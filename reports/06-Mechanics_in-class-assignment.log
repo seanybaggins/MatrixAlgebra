@@ -23,11 +23,11 @@ x = multiply(matrix1, matrix2)
 
 [0;31m---------------------------------------------------------------------------[0m
 [0;31mNameError[0m                                 Traceback (most recent call last)
-[0;32m/tmp/ipykernel_4721/2472484921.py[0m in [0;36m<module>[0;34m[0m
+[0;32m/tmp/ipykernel_4510/2472484921.py[0m in [0;36m<module>[0;34m[0m
 [1;32m      1[0m [0;31m#Compute matrix multiply using your function[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
 [0;32m----> 2[0;31m [0mx[0m [0;34m=[0m [0mmultiply[0m[0;34m([0m[0mmatrix1[0m[0;34m,[0m [0mmatrix2[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
 [0m
-[0;32m/tmp/ipykernel_4721/2910042336.py[0m in [0;36mmultiply[0;34m(m1, m2)[0m
+[0;32m/tmp/ipykernel_4510/2910042336.py[0m in [0;36mmultiply[0;34m(m1, m2)[0m
 [1;32m     12[0m     [0;31m#### put your matrix multiply code here #####[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
 [1;32m     13[0m [0;34m[0m[0m
 [0;32m---> 14[0;31m     [0;32mreturn[0m [0mresult[0m[0;34m[0m[0;34m[0m[0m
