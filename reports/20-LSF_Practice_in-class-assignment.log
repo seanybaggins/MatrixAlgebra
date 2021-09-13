@@ -29,7 +29,7 @@ plt.ylabel('Distance (log(AU))')
 
 [0;31m---------------------------------------------------------------------------[0m
 [0;31mNameError[0m                                 Traceback (most recent call last)
-[0;32m/tmp/ipykernel_4998/640126062.py[0m in [0;36m<module>[0;34m[0m
+[0;32m/tmp/ipykernel_5089/640126062.py[0m in [0;36m<module>[0;34m[0m
 [1;32m      1[0m [0;31m## Modify the following code[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
 [1;32m      2[0m [0;34m[0m[0m
 [0;32m----> 3[0;31m [0mest_log_distances[0m [0;34m=[0m [0;34m([0m[0mc[0m[0;34m[[0m[0;36m0[0m[0;34m][0m [0;34m+[0m [0mc[0m[0;34m[[0m[0;36m1[0m[0;34m][0m[0;34m*[0m[0mnp[0m[0;34m.[0m[0mmatrix[0m[0;34m([0m[0mind[0m[0;34m)[0m[0;34m)[0m[0;34m.[0m[0mtolist[0m[0;34m([0m[0;34m)[0m[0;34m[[0m[0;36m0[0m[0;34m][0m[0;34m[0m[0;34m[0m[0m
