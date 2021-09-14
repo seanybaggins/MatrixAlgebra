@@ -485,11 +485,14 @@
 <div class="math notranslate nohighlight">
 \[ 2x +~ y + 4z = 27\]</div>
 <p>Here is a basic outline of the Jacobi method algorithm:</p>
-<ol class="simple">
+<ol>
 <li><p>Initialize each of the variables as zero (<span class="math notranslate nohighlight">\(x_0 = 0, y_0 = 0, z_0 = 0\)</span>)</p></li>
-<li><p>Calculate the next iteration using the above equations and the values from the previous iterations. For example here is the formula for calculating <span class="math notranslate nohighlight">\(x_i\)</span> from <span class="math notranslate nohighlight">\(y_{(i-1)}\)</span> and <span class="math notranslate nohighlight">\(z_{(i-1)}\)</span> based on the first equation:
-$<span class="math notranslate nohighlight">\(x_i = \frac{4 - 2y_{(i-1)} + z_{(i-1)}}{6} \)</span><span class="math notranslate nohighlight">\(
- Similarly, we can obtain the update for \)</span>y_i<span class="math notranslate nohighlight">\( and \)</span>z_i$ from the second and third equations, respectively.</p></li>
+<li><p>Calculate the next iteration using the above equations and the values from the previous iterations. For example here is the formula for calculating <span class="math notranslate nohighlight">\(x_i\)</span> from <span class="math notranslate nohighlight">\(y_{(i-1)}\)</span> and <span class="math notranslate nohighlight">\(z_{(i-1)}\)</span> based on the first equation:</p>
+<div class="math notranslate nohighlight">
+\[\begin{split} \\
+    x_i = \frac{4 - 2y_{(i-1)} + z_{(i-1)}}{6} \end{split}\]</div>
+<p>Similarly, we can obtain the update for <span class="math notranslate nohighlight">\(y_i\)</span> and <span class="math notranslate nohighlight">\(z_i\)</span> from the second and third equations, respectively.</p>
+</li>
 <li><p>Increment the iteration counter <span class="math notranslate nohighlight">\((i = i + 1)\)</span> and repeat Step 2.</p></li>
 <li><p>Stop when the answer “converges” or a maximum number of iterations has been reached. (ex. <span class="math notranslate nohighlight">\(i\)</span> = 100)</p></li>
 </ol>

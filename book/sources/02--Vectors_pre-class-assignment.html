@@ -629,15 +629,17 @@
 </div>
 </div>
 <p>A <strong><em>vector</em></strong>, on the other hand, is an <em>ordered</em> list of values which we typically represent with lower case letters. Vectors are ordered arrays of single numbers and are an example of 1st-order tensor. The following are all vectors:</p>
-<p><strong><em>Row Vector:</em></strong>
-$<span class="math notranslate nohighlight">\(v = [ v_1, v_2, \dots, v_n ]\)</span><span class="math notranslate nohighlight">\(
-here \)</span>v_1, v_2, \dots, v_n$ are single numbers.</p>
+<p><strong><em>Row Vector:</em></strong></p>
+<div class="math notranslate nohighlight">
+\[v = [ v_1, v_2, \dots, v_n ]\]</div>
+<p>here <span class="math notranslate nohighlight">\(v_1, v_2, \dots, v_n\)</span> are single numbers.</p>
 <div class="math notranslate nohighlight">
 \[f = [1, 2, 3, 5, 8]\]</div>
 <p>Here <span class="math notranslate nohighlight">\(f\)</span> in the above example is a vector of numbers, and it is the common way we think of vectors.</p>
 <p>Note, it is often more common to write vecors vertically. These are often called column vectors:</p>
-<p><strong><em>Column Vector:</em></strong>
-$<span class="math notranslate nohighlight">\(
+<p><strong><em>Column Vector:</em></strong></p>
+<div class="math notranslate nohighlight">
+\[\begin{split}
 v=
 \left[
 \begin{matrix}
@@ -647,8 +649,8 @@ v=
     v_m
  \end{matrix}
 \right]
-\)</span><span class="math notranslate nohighlight">\(
-here \)</span>v_1, v_2, \dots, v_n$ are single numbers.</p>
+\end{split}\]</div>
+<p>here <span class="math notranslate nohighlight">\(v_1, v_2, \dots, v_n\)</span> are single numbers.</p>
 <div class="section" id="a-introducing-vectors-in-python">
 <h3>1.a: Introducing Vectors in Python<a class="headerlink" href="#a-introducing-vectors-in-python" title="Permalink to this headline">¶</a></h3>
 <p>In Python, there are multiple ways to store a vector.  Knowing how your vector is stored is very important (especially for debugging).  Probably the easiest way to store a vector is using a list, which are created using standard square brackets as follows:</p>
@@ -904,7 +906,7 @@ $<span class="math notranslate nohighlight">\(
 </div>
 <div class="cell_output docutils container">
 <script type="application/vnd.jupyter.widget-view+json">
-{"version_major": 2, "version_minor": 0, "model_id": "3dedaa3f97434a79a4c611882b7b2acc"}
+{"version_major": 2, "version_minor": 0, "model_id": "2a27ff10dd8540b29c3b550fa4d1301d"}
 </script></div>
 </div>
 </div>
@@ -1081,7 +1083,7 @@ $<span class="math notranslate nohighlight">\(
 <div class="cell_output docutils container">
 <div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
 <span class="ne">NameError</span><span class="g g-Whitespace">                                 </span>Traceback (most recent call last)
-<span class="o">/</span><span class="n">tmp</span><span class="o">/</span><span class="n">ipykernel_4314</span><span class="o">/</span><span class="mf">1274426297.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<span class="o">/</span><span class="n">tmp</span><span class="o">/</span><span class="n">ipykernel_4286</span><span class="o">/</span><span class="mf">1274426297.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
 <span class="g g-Whitespace">      </span><span class="mi">2</span> <span class="n">z</span> <span class="o">=</span> <span class="mi">3</span>
 <span class="g g-Whitespace">      </span><span class="mi">3</span> <span class="n">a</span> <span class="o">=</span> <span class="p">[</span><span class="mi">3</span><span class="p">,</span><span class="o">-</span><span class="mi">7</span><span class="p">,</span><span class="mi">10</span><span class="p">]</span>
 <span class="ne">----&gt; </span><span class="mi">4</span> <span class="n">sv_multiply</span><span class="p">(</span><span class="n">z</span><span class="p">,</span><span class="n">a</span><span class="p">)</span>
