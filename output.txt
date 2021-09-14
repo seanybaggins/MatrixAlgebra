@@ -1,5 +1,5 @@
-book/sources/02--Vectors_pre-class-assignment.py:30003: [redirected permanently] http://joshua.smcvt.edu/linearalgebra/book.pdf to https://joshua.smcvt.edu/linearalgebra/book.pdf
 book/sources/02--Vectors_pre-class-assignment.py:50009: [redirected permanently] http://joshua.smcvt.edu/linearalgebra/ to https://joshua.smcvt.edu/linearalgebra/
+book/sources/02--Vectors_pre-class-assignment.py:30003: [redirected permanently] http://joshua.smcvt.edu/linearalgebra/book.pdf to https://joshua.smcvt.edu/linearalgebra/book.pdf
 book/sources/0000-Jupyter_Getting_Started_Guide.py:40048: [redirected with Found] http://d2l.msu.edu to https://d2l.msu.edu:443/d2l/loginh/
 book/sources/0000-Jupyter_Getting_Started_Guide.py:170009: [redirected permanently] http://pythontutor.com/ to https://pythontutor.com/
 book/sources/10--Eigenproblems_pre-class-assignment.py:60009: [redirected with Found] http://mathworld.wolfram.com/Eigenvalue.html to https://mathworld.wolfram.com/Eigenvalue.html
@@ -7,17 +7,17 @@ book/sources/01-CMSE314_introduction_in-class-assignment.py:30006: [redirected p
 book/sources/10--Eigenproblems_pre-class-assignment.py:60004: [redirected with Found] http://lpsa.swarthmore.edu/MtrxVibe/MatrixAll.html to https://lpsa.swarthmore.edu/MtrxVibe/MatrixAll.html
 book/sources/14--Fundamental_Spaces_pre-class-assignment.py:110008: [redirected permanently] https://commons.wikimedia.org to https://commons.wikimedia.org/wiki/Main_Page
 book/sources/10--Eigenproblems_pre-class-assignment.py:60004: [redirected with Found] http://www.physics.princeton.edu/~mcdonald/examples/ph101_1996/ph101lab5_96.pdf to https://www.physics.princeton.edu//~mcdonald/examples/ph101_1996/ph101lab5_96.pdf
-book/sources/0000-Jupyter_Getting_Started_Guide.py:40004: [redirected with Found] http://jupyterhub.egr.msu.edu to https://jupyterhub.egr.msu.edu/hub/login?next=%2Fhub%2F
 book/sources/08--Robotics_pre-class-assignment.py:20006: [redirected permanently] http://www.fanuc.com/ to https://www.fanuc.com/
 book/sources/0000-Jupyter_Getting_Started_Guide.py:40037: [redirected with Found] https://jupyterhub.egr.msu.edu to https://jupyterhub.egr.msu.edu/hub/login?next=%2Fhub%2F
+book/sources/0000-Jupyter_Getting_Started_Guide.py:40004: [redirected with Found] http://jupyterhub.egr.msu.edu to https://jupyterhub.egr.msu.edu/hub/login?next=%2Fhub%2F
 book/sources/17--Decompositions_pre-class-assignment.py:190009: [redirected permanently] https://wikipedia.org/ to https://www.wikipedia.org/
-book/sources/0000-Jupyter_Getting_Started_Guide.py:90010: [redirected with See Other] https://youtu.be/L03BzGmLUUE to https://www.youtube.com/watch?v=L03BzGmLUUE&feature=youtu.be
-book/sources/0000-Jupyter_Getting_Started_Guide.py:110002: [redirected with See Other] https://youtu.be/5WSQnGmz3IA to https://www.youtube.com/watch?v=5WSQnGmz3IA&feature=youtu.be
 book/sources/0000-Jupyter_Getting_Started_Guide.py:40008: [redirected with See Other] https://youtu.be/3BiLPXAGINA to https://www.youtube.com/watch?v=3BiLPXAGINA&feature=youtu.be
+book/sources/0000-Jupyter_Getting_Started_Guide.py:90010: [redirected with See Other] https://youtu.be/L03BzGmLUUE to https://www.youtube.com/watch?v=L03BzGmLUUE&feature=youtu.be
 book/sources/0000--Python_Linear_Algebra_Packages_pre-class-assignment.py:140002: [redirected with See Other] https://youtu.be/PBlKeuzUf5g to https://www.youtube.com/watch?v=PBlKeuzUf5g&feature=youtu.be
-book/sources/0000-Python_Packages.py:100004: [redirected with See Other] https://youtu.be/d4a9Xag-yc8 to https://www.youtube.com/watch?v=d4a9Xag-yc8&feature=youtu.be
 book/sources/0000--Python_Linear_Algebra_Packages_pre-class-assignment.py:210002: [redirected with See Other] https://youtu.be/_hbWtNgstlI to https://www.youtube.com/watch?v=_hbWtNgstlI&feature=youtu.be
+book/sources/0000-Python_Packages.py:100004: [redirected with See Other] https://youtu.be/d4a9Xag-yc8 to https://www.youtube.com/watch?v=d4a9Xag-yc8&feature=youtu.be
 book/sources/0000--Python_Linear_Algebra_Packages_pre-class-assignment.py:320002: [redirected with See Other] https://youtu.be/XSyiafkKerQ to https://www.youtube.com/watch?v=XSyiafkKerQ&feature=youtu.be
-book/sources/0000--Python_Linear_Algebra_Packages_pre-class-assignment.py:550009: [redirected with See Other] https://youtu.be/zSDfRY8-3QE to https://www.youtube.com/watch?v=zSDfRY8-3QE&feature=youtu.be
+book/sources/0000-Jupyter_Getting_Started_Guide.py:110002: [redirected with See Other] https://youtu.be/5WSQnGmz3IA to https://www.youtube.com/watch?v=5WSQnGmz3IA&feature=youtu.be
 book/sources/0000-Jupyter_Getting_Started_Guide.py:150007: [redirected with See Other] https://youtu.be/l7mhi4ww6tY to https://www.youtube.com/watch?v=l7mhi4ww6tY&feature=youtu.be
 book/sources/0000--Python_Linear_Algebra_Packages_pre-class-assignment.py:470002: [redirected with See Other] https://youtu.be/qgSa7n_zQ3A to https://www.youtube.com/watch?v=qgSa7n_zQ3A&feature=youtu.be
+book/sources/0000--Python_Linear_Algebra_Packages_pre-class-assignment.py:550009: [redirected with See Other] https://youtu.be/zSDfRY8-3QE to https://www.youtube.com/watch?v=zSDfRY8-3QE&feature=youtu.be
